@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647645058983",
+    "project_id": "hashmicro-assesment",
+    "storage_bucket": "hashmicro-assesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647645058983:android:e3dc1294ba222443fb8882",
+        "android_client_info": {
+          "package_name": "com.hashmicro.assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzexv6zih5mrGw_l1OFw9JSWppauKvrUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
